@@ -182,7 +182,7 @@ LEDを点灯させる
 
     **パラメータ**
         - ``pin``: モードを設定したいピンの番号。
-        - ``mode``: ``INPUT``, ``OUTPUT``, または ``INPUT_PULLUP``。
+        - ``mode``: ``INPUT``, ``OUTPUT``, または ``INPUT_PULLUP`` 。
 
     **戻り値**
         なし

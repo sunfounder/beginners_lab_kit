@@ -26,6 +26,10 @@
 
         * |link_jp_tutorials|
         * |link_en_tutorials|
+        * |link_german_tutorials|
+        * |link_fr_tutorials|
+        * |link_es_tutorials|
+        * |link_it_tutorials|
     
     ご希望の言語のリンクをクリックして、ドキュメントにアクセスしてください。
 

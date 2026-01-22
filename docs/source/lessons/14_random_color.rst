@@ -110,7 +110,7 @@ Arduinoのランダム性へのアプローチには、いくつかの関数が�
         randomSeed(analogRead(A0));
     }
 
-4. 次に ``void loop()`` 内の元のコードを削除します。 ``random()``  関数を使用してランダム値を生成し、それを ``redValue``、 ``greenValue`` 、および ``blueValue`` 変数に格納します。
+4. 次に ``void loop()`` 内の元のコードを削除します。 ``random()``  関数を使用してランダム値を生成し、それを ``redValue`` 、 ``greenValue`` 、および ``blueValue`` 変数に格納します。
 
 .. code-block:: Arduino
     :emphasize-lines: 3-5

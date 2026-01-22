@@ -23,6 +23,12 @@ project = 'SunFounder Beginners Lab Kit'
 copyright = f'{time.localtime().tm_year}, SunFounder'  ###
 author = 'www.sunfounder.com'
 
+# -- sphinx_rtd_theme Theme options -----------------------------------------------------
+html_theme_options = {
+    'flyout_display': 'attached',
+    'version_selector': False,
+    'language_selector': False,
+}
 
 # -- General configuration ---------------------------------------------------
 
@@ -31,7 +37,8 @@ author = 'www.sunfounder.com'
 # ones.
 extensions = [
     # 'sphinx.ext.autosectionlabel',
-    'sphinx_copybutton'
+    'sphinx_copybutton',
+    'sphinx_rtd_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -105,7 +112,7 @@ rst_epilog = """
 
 .. |link_sf_facebook| raw:: html
 
-    <a href="https://bit.ly/raphaelkit" target="_blank">here</a>
+    <a href="https://bit.ly/raphaelkit" target="_blank">ここ</a>
 
 
 .. |link_wiki_avometer| raw:: html
@@ -115,7 +122,7 @@ rst_epilog = """
 
 .. |link_docs_ide| raw:: html
 
-    <a href="https://docs.arduino.cc/software/ide-v2/tutorials/getting-started-ide-v2/" target="_blank">Getting Started with Arduino IDE 2</a>
+    <a href="https://docs.arduino.cc/software/ide-v2/tutorials/getting-started-ide-v2/" target="_blank">～の始め方 Arduino IDE 2</a>
 
 
 .. |link_arduino_forum| raw:: html
@@ -128,11 +135,11 @@ rst_epilog = """
 
 .. |link_arduino_docs| raw:: html
 
-    <a href="https://docs.arduino.cc/" target="_blank">Official Arduino Documentation</a>
+    <a href="https://docs.arduino.cc/" target="_blank">公式Arduinoドキュメント</a>
 
 .. |link_download_arduino| raw:: html
 
-    <a href="https://www.arduino.cc/en/software#future-version-of-the-arduino-ide" target="_blank">Arduino Software Page</a>
+    <a href="https://www.arduino.cc/en/software#future-version-of-the-arduino-ide" target="_blank">Arduinoソフトウェアページ</a>
 
 .. |link_ascii| raw:: html
 
@@ -140,7 +147,7 @@ rst_epilog = """
 
 .. |link_arduino_reference| raw:: html
 
-    <a href="https://www.arduino.cc/reference/en/" target="_blank">Language Reference</a>
+    <a href="https://www.arduino.cc/reference/en/" target="_blank">言語リファレンス</a>
 
 
 """
@@ -161,6 +168,18 @@ rst_epilog += """
 .. |link_en_tutorials| raw:: html
 
     <a href="https://docs.sunfounder.com/projects/beginners-lab-kit/en/latest/" target="_blank">English Online-tutorials</a>
+
+.. |link_fr_tutorials| raw:: html
+
+    <a href="https://docs.sunfounder.com/projects/beginners-lab-kit/fr/latest/" target="_blank">Didacticiels en ligne en français</a>
+
+.. |link_es_tutorials| raw:: html
+
+    <a href="https://docs.sunfounder.com/projects/beginners-lab-kit/es/latest/" target="_blank">Tutoriales en línea en español</a>
+
+.. |link_it_tutorials| raw:: html
+
+    <a href="https://docs.sunfounder.com/projects/beginners-lab-kit/it/latest/" target="_blank">Tutorial online in italiano</a>
 
 """
 

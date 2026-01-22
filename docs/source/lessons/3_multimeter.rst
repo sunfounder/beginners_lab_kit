@@ -166,6 +166,7 @@ Nachdem du nun ein detailliertes Verständnis für die Verwendung eines Multimet
   * - 110 Volt Wechselspannung
     -
 
+.. _use_multimeter:
 
 Messen mit dem Multimeter
 --------------------------------

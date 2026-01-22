@@ -36,7 +36,7 @@ html_theme_options = {
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autosectionlabel',
+    # 'sphinx.ext.autosectionlabel',
     'sphinx_copybutton',
     'sphinx_rtd_theme'
 ]
@@ -187,35 +187,35 @@ rst_epilog += """
 # component pic
 rst_epilog += """
 
-.. |list_green_led| image:: /img/list_cpn/list_green_led.png 
-.. |list_red_led| image:: /img/list_cpn/list_red_led.png 
-.. |list_blue_led| image:: /img/list_cpn/list_blue_led.png 
-.. |list_yellow_led| image:: /img/list_cpn/list_yellow_led.png 
-.. |list_white_led| image:: /img/list_cpn/list_white_led.png 
-.. |list_rgb_led| image:: /img/list_cpn/list_rgb_led.png 
-.. |list_10ohm| image:: /img/list_cpn/list_10ohm.png 
-.. |list_100ohm| image:: /img/list_cpn/list_100ohm.png 
-.. |list_220ohm| image:: /img/list_cpn/list_220ohm.png 
-.. |list_330ohm| image:: /img/list_cpn/list_330ohm.png 
-.. |list_1kohm| image:: /img/list_cpn/list_1kohm.png 
-.. |list_2kohm| image:: /img/list_cpn/list_2kohm.png 
-.. |list_5_1ohm| image:: /img/list_cpn/list_5_1ohm.png 
-.. |list_10kohm| image:: /img/list_cpn/list_10kohm.png 
-.. |list_100kohm| image:: /img/list_cpn/list_100kohm.png 
-.. |list_1mohm| image:: /img/list_cpn/list_1mohm.png 
-.. |list_active_buzzer| image:: /img/list_cpn/list_active_buzzer.png 
-.. |list_passive_buzzer| image:: /img/list_cpn/list_passive_buzzer.png 
-.. |list_button| image:: /img/list_cpn/list_button.png 
-.. |list_thermistor| image:: /img/list_cpn/list_thermistor.png 
-.. |list_photoresistor| image:: /img/list_cpn/list_photoresistor.png 
-.. |list_potentiometer| image:: /img/list_cpn/list_potentiometer.png 
-.. |list_7segment| image:: /img/list_cpn/list_7segment.png 
-.. |list_74hc595| image:: /img/list_cpn/list_74hc595.png 
-.. |list_ultrasonic| image:: /img/list_cpn/list_ultrasonic.png 
-.. |list_meter| image:: /img/list_cpn/list_meter.png 
-.. |list_wire| image:: /img/list_cpn/list_wire.png
-.. |list_breadboard| image:: /img/list_cpn/list_breadboard.png 
-.. |list_usb_cable| image:: /img/list_cpn/list_usb_cable.png 
-.. |list_uno_r3| image:: /img/list_cpn/list_uno_r3.png 
+.. |list_green_led| image:: /lessons/img/list_cpn/list_green_led.png 
+.. |list_red_led| image:: /lessons/img/list_cpn/list_red_led.png 
+.. |list_blue_led| image:: /lessons/img/list_cpn/list_blue_led.png 
+.. |list_yellow_led| image:: /lessons/img/list_cpn/list_yellow_led.png 
+.. |list_white_led| image:: /lessons/img/list_cpn/list_white_led.png 
+.. |list_rgb_led| image:: /lessons/img/list_cpn/list_rgb_led.png 
+.. |list_10ohm| image:: /lessons/img/list_cpn/list_10ohm.png 
+.. |list_100ohm| image:: /lessons/img/list_cpn/list_100ohm.png 
+.. |list_220ohm| image:: /lessons/img/list_cpn/list_220ohm.png 
+.. |list_330ohm| image:: /lessons/img/list_cpn/list_330ohm.png 
+.. |list_1kohm| image:: /lessons/img/list_cpn/list_1kohm.png 
+.. |list_2kohm| image:: /lessons/img/list_cpn/list_2kohm.png 
+.. |list_5_1ohm| image:: /lessons/img/list_cpn/list_5_1ohm.png 
+.. |list_10kohm| image:: /lessons/img/list_cpn/list_10kohm.png 
+.. |list_100kohm| image:: /lessons/img/list_cpn/list_100kohm.png 
+.. |list_1mohm| image:: /lessons/img/list_cpn/list_1mohm.png 
+.. |list_active_buzzer| image:: /lessons/img/list_cpn/list_active_buzzer.png 
+.. |list_passive_buzzer| image:: /lessons/img/list_cpn/list_passive_buzzer.png 
+.. |list_button| image:: /lessons/img/list_cpn/list_button.png 
+.. |list_thermistor| image:: /lessons/img/list_cpn/list_thermistor.png 
+.. |list_photoresistor| image:: /lessons/img/list_cpn/list_photoresistor.png 
+.. |list_potentiometer| image:: /lessons/img/list_cpn/list_potentiometer.png 
+.. |list_7segment| image:: /lessons/img/list_cpn/list_7segment.png 
+.. |list_74hc595| image:: /lessons/img/list_cpn/list_74hc595.png 
+.. |list_ultrasonic| image:: /lessons/img/list_cpn/list_ultrasonic.png 
+.. |list_meter| image:: /lessons/img/list_cpn/list_meter.png 
+.. |list_wire| image:: /lessons/img/list_cpn/list_wire.png
+.. |list_breadboard| image:: /lessons/img/list_cpn/list_breadboard.png 
+.. |list_usb_cable| image:: /lessons/img/list_cpn/list_usb_cable.png 
+.. |list_uno_r3| image:: /lessons/img/list_cpn/list_uno_r3.png 
 
 """

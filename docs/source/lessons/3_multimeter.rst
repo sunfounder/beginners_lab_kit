@@ -164,6 +164,7 @@ Ahora que tienes un entendimiento detallado de cómo usar un multímetro, ¿qué
   * - 110V AC
     - 
 
+.. _use_multimeter:
 
 Medición con un Multímetro
 ----------------------------

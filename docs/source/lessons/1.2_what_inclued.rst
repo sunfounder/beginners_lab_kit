@@ -12,7 +12,7 @@
 
     👉 ¿Listo para explorar y crear con nosotros? Haz clic en [|link_sf_facebook|] y únete hoy mismo.
 
-
+.. _include_in_kit:
 
 1.2 ¿Qué contiene tu kit?
 ======================================

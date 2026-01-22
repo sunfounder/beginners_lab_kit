@@ -158,8 +158,10 @@ Ora che hai una comprensione dettagliata di come utilizzare un multimetro, consi
   * - 110 volt AC
     - 
 
+.. _use_multimeter:
+
 Misurare con il Multimetro
---------------------------
+------------------------------
 
 Nella lezione precedente, hai configurato un semplice circuito per accendere un LED. Ora utilizzeremo un multimetro per misurare la tensione, la corrente e la resistenza in questo circuito. Vediamo come farlo!
 

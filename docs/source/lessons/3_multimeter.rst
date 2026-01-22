@@ -163,6 +163,7 @@ Maintenant que vous avez une compréhension détaillée de l'utilisation d'un mu
   * - 110V AC
     -
 
+.. _use_multimeter:
 
 Mesurer avec un multimètre
 --------------------------------

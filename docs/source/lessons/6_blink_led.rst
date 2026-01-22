@@ -15,6 +15,7 @@
 
 6. Faire clignoter une LED
 ===============================
+
 Bienvenue dans cette leçon ! Vous apprendrez à manipuler les broches numériques de l'Arduino Uno R3 pour contrôler une LED de manière programmée, en l'allumant et l'éteignant automatiquement, une compétence essentielle tant dans les applications domestiques qu'industrielles.
 
 .. raw:: html

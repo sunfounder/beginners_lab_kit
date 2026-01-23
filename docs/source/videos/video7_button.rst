@@ -26,7 +26,7 @@ Esta lección explica cómo se utilizan los botones pulsadores como entradas dig
 
     <iframe width="100%" 
         style="aspect-ratio: 16/9; max-width: 100%;"
-        src="https://www.youtube.com/embed/https://www.youtube.com/embed/v87R7BsuCdM" 
+        src="https://www.youtube.com/embed/v87R7BsuCdM" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

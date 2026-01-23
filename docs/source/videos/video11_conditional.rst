@@ -26,7 +26,7 @@ Esta lección introduce las sentencias condicionales para la toma de decisiones.
 
     <iframe width="100%" 
         style="aspect-ratio: 16/9; max-width: 100%;"
-        src="https://www.youtube.com/embed/https://www.youtube.com/embed/XDvUkz9K93Q" 
+        src="https://www.youtube.com/embed/XDvUkz9K93Q" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

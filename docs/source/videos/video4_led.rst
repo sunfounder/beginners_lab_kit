@@ -26,7 +26,7 @@ Esta lección demuestra cómo controlar LED utilizando los pines de salida digit
 
     <iframe width="100%" 
         style="aspect-ratio: 16/9; max-width: 100%;"
-        src="https://www.youtube.com/embed/https://www.youtube.com/embed/G8S1j8UQfS0" 
+        src="https://www.youtube.com/embed/G8S1j8UQfS0" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

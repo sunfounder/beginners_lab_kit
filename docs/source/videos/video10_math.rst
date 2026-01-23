@@ -26,7 +26,7 @@ Esta lección cubre las operaciones matemáticas en los sketches de Arduino.
 
     <iframe width="100%" 
         style="aspect-ratio: 16/9; max-width: 100%;"
-        src="https://www.youtube.com/embed/https://www.youtube.com/embed/Vm-Q76FdaUU" 
+        src="https://www.youtube.com/embed/Vm-Q76FdaUU" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

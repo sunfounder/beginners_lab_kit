@@ -24,5 +24,13 @@ Cette leçon explique ce qu’est Arduino et comment il fonctionne en tant que p
 
 .. raw:: html
 
-    <iframe width="700" height="400" src="https://www.youtube.com/embed/rtCHy5TIDhI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" 
+        style="aspect-ratio: 16/9; max-width: 100%;"
+        src="https://www.youtube.com/embed/rtCHy5TIDhI" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+
 

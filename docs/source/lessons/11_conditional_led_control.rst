@@ -22,7 +22,7 @@ Alla fine di questa lezione, non solo saprai programmare i LED per accendersi in
 .. raw:: html
 
     <video controls style = "max-width:90%">
-        <source src="_static/video/11_control_leds.mp4" type="video/mp4">
+        <source src="../_static/video/11_control_leds.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

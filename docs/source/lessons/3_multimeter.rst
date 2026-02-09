@@ -174,7 +174,7 @@ Prima di usare il multimetro, devi installare la batteria e collegare i due cavi
   .. raw:: html
 
       <video width="600" loop autoplay muted>
-          <source src="_static/video/3_multimeter_battery.mp4" type="video/mp4">
+          <source src="../_static/video/3_multimeter_battery.mp4" type="video/mp4">
           Your browser does not support the video tag.
       </video>
 

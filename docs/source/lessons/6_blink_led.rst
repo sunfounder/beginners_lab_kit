@@ -19,7 +19,7 @@ Willkommen zu dieser Lektion, in der du lernst, die digitalen Pins des Arduino U
 .. raw:: html
 
     <video muted controls style = "max-width:90%">
-        <source src="_static/video/6_blink_led.mp4" type="video/mp4">
+        <source src="../_static/video/6_blink_led.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

@@ -25,7 +25,7 @@ Willkommen zu dieser Lektion! In dieser spannenden Lektion schlagen wir die Brü
 .. raw:: html
 
     <video muted controls style = "max-width:90%">
-        <source src="_static/video/7_traffic_light.mp4" type="video/mp4">
+        <source src="../_static/video/7_traffic_light.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

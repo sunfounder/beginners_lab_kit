@@ -24,7 +24,7 @@ Durch die Anpassung der Frequenz eines passiven Summers können wir die charakte
 .. raw:: html
 
     <video controls style = "max-width:90%">
-        <source src="_static/video/21_siren_sound.mp4" type="video/mp4">
+        <source src="../_static/video/21_siren_sound.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

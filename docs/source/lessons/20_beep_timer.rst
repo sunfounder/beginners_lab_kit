@@ -25,7 +25,7 @@ En esta lección, exploraremos la intersección entre la gestión del tiempo y l
 .. raw:: html
 
      <video controls style = "max-width:90%">
-        <source src="_static/video/20_beep_timer.mp4" type="video/mp4">
+        <source src="../_static/video/20_beep_timer.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

@@ -22,7 +22,7 @@ Al final de esta lección, no solo sabrás cómo programar los LEDs para que se 
 .. raw:: html
 
     <video controls style = "max-width:90%">
-        <source src="_static/video/11_control_leds.mp4" type="video/mp4">
+        <source src="../_static/video/11_control_leds.mp4" type="video/mp4">
         Tu navegador no soporta la etiqueta de video.
     </video>
 

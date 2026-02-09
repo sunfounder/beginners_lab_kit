@@ -20,7 +20,7 @@ El código Morse es como un lenguaje secreto que usa puntos (.) y rayas (-) inve
 .. raw:: html
 
     <video controls style = "max-width:90%">
-        <source src="_static/video/17_morse_code.mp4" type="video/mp4">
+        <source src="../_static/video/17_morse_code.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

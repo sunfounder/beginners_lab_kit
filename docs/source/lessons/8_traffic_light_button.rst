@@ -20,7 +20,7 @@ Bienvenido a la siguiente fase de nuestro recorrido con Arduino. En la lección 
 .. raw:: html
 
     <video muted controls style = "max-width:90%">
-        <source src="_static/video/8_traffic_light_button.mp4" type="video/mp4">
+        <source src="../_static/video/8_traffic_light_button.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

@@ -24,7 +24,7 @@ Ajustando la frecuencia de un zumbador pasivo, podemos simular los tonos caracte
 .. raw:: html
 
     <video controls style = "max-width:90%">
-        <source src="_static/video/21_siren_sound.mp4" type="video/mp4">
+        <source src="../_static/video/21_siren_sound.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

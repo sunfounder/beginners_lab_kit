@@ -39,7 +39,7 @@ fotorresistencia y un zumbador, ¿de acuerdo?
 .. raw:: html
 
     <video controls style = "max-width:90%">
-        <source src="_static/video/18_light_alarm.mp4" type="video/mp4">
+        <source src="../_static/video/18_light_alarm.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

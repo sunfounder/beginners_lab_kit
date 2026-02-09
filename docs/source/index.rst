@@ -13,7 +13,7 @@
     👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!
 
 |link_beginner_lab_kit| with Original Arduino Uno R3
-=================================================
+====================================================================
 
 Thank You for Choosing the |link_beginner_lab_kit|
 

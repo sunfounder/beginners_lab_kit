@@ -166,6 +166,7 @@ Now that you have a detailed understanding of how to use a multimeter, consider 
   * - 110 volts AC
     -
 
+.. _use_multimeter:
 
 Measuring with a Multimeter
 --------------------------------
@@ -181,7 +182,7 @@ Before using the multimeter, you need to install the battery and connect the two
   .. raw:: html
 
       <video width="600" loop autoplay muted>
-          <source src="_static/video/3_multimeter_battery.mp4" type="video/mp4">
+          <source src="../_static/video/3_multimeter_battery.mp4" type="video/mp4">
           Your browser does not support the video tag.
       </video>
 

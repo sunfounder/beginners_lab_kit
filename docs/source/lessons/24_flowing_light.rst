@@ -20,7 +20,7 @@ In this lesson, we will delve into the world of the 74HC595 shift register chip.
 .. raw:: html
 
     <video muted controls style = "max-width:90%">
-        <source src="_static/video/24_flowing_light.mp4" type="video/mp4">
+        <source src="../_static/video/24_flowing_light.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

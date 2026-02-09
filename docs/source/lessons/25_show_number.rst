@@ -24,7 +24,7 @@ In this lesson, we will use the 74HC595 to control the 7-segment display and mak
 .. raw:: html
 
     <video muted controls style = "max-width:90%">
-        <source src="_static/video/25_show_number.mp4" type="video/mp4">
+        <source src="../_static/video/25_show_number.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

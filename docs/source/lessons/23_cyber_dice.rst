@@ -26,7 +26,7 @@ Nous allons tout d'abord découvrir le fonctionnement d'un afficheur à 7 segmen
 .. raw:: html
 
     <video muted controls style = "max-width:90%">
-        <source src="_static/video/23_cycle_dice.mp4" type="video/mp4">
+        <source src="../_static/video/23_cycle_dice.mp4" type="video/mp4">
         Votre navigateur ne supporte pas la balise vidéo.
     </video>
 

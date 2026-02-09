@@ -20,7 +20,7 @@ Dans cette leçon, nous allons plonger dans le monde du circuit intégré de reg
 .. raw:: html
 
     <video muted controls style = "max-width:90%">
-        <source src="_static/video/24_flowing_light.mp4" type="video/mp4">
+        <source src="../_static/video/24_flowing_light.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

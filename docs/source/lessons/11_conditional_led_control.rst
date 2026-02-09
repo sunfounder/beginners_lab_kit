@@ -22,7 +22,7 @@ Bienvenue dans cette leçon, où nous allons explorer comment maîtriser les ins
 .. raw:: html
 
     <video controls style = "max-width:90%">
-        <source src="_static/video/11_control_leds.mp4" type="video/mp4">
+        <source src="../_static/video/11_control_leds.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 

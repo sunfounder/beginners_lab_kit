@@ -176,7 +176,7 @@ hFE NPN PNP設定は、トランジスタを測定するためのものです。
   .. raw:: html
 
       <video width="600" loop autoplay muted>
-          <source src="_static/video/3_multimeter_battery.mp4" type="video/mp4">
+          <source src="../_static/video/3_multimeter_battery.mp4" type="video/mp4">
           Your browser does not support the video tag.
       </video>
 

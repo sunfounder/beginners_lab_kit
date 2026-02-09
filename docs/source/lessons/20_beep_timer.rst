@@ -24,7 +24,7 @@
 .. raw:: html
 
      <video controls style = "max-width:90%">
-        <source src="_static/video/20_beep_timer.mp4" type="video/mp4">
+        <source src="../_static/video/20_beep_timer.mp4" type="video/mp4">
         お使いのブラウザはビデオタグをサポートしていません。
     </video>
 
